@@ -1,4 +1,4 @@
 GRIP 2
 exe /usr/bin/oggenc
-cmdline -o %m -a %a -l %d -t %n -N %t -G %G -d %y -q 4 %w
+cmdline -o %*m -a %*a -l %*d -t %*n -b %b -N %t -G %*G -d %y -m 96 -M 225 %*w
 extension ogg
