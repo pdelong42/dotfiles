@@ -1,0 +1,4 @@
+GRIP 2
+exe /usr/bin/flac
+cmdline -V --best -T TITLE="%*n" -T ALBUM="%y - %*d" -T TRACKNUMBER=%t -T ARTIST="%*a" -T GENRE="%G" -T DATE=%y -o %*m %*w
+extension flac
