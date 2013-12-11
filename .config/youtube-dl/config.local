@@ -1,0 +1,1 @@
+-v -i -o '~/Videos/incoming/%(extractor)s.com/%(uploader)s/%(title)s-%(id)s.%(ext)s'
