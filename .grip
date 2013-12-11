@@ -6,15 +6,15 @@ ripexename /usr/bin/cdparanoia
 ripcmdline -d %c %t:[.%s]-%t:[.%e] %w
 wav_filter_cmd 
 disc_filter_cmd 
-mp3exename /usr/bin/oggenc
-mp3cmdline -o %m -a %a -l %d -t %n -N %t -G %G -d %y -q 4 %w
+mp3exename /usr/bin/flac
+mp3cmdline -V --best -T TITLE="%*n" -T ALBUM="%y - %*d" -T TRACKNUMBER=%t -T ARTIST="%*a" -T GENRE="%G" -T DATE=%y -o %*m %*w
 dbserver freedb.freedb.org
-ripfileformat ~/%x/%A/%d/%n.wav
-mp3fileformat ~/%x/%A/%d/%n.%x
-mp3extension ogg
-m3ufileformat ~/%x/%A-%d.m3u
+ripfileformat ~/Stuff/WAVs/%*A/%y - %*d/%t - %*n.wav
+mp3fileformat ~/Stuff/%x/%*A/%y - %*d/%t - %*n.%x
+mp3extension flac
+m3ufileformat ~/Stuff/%x/%*A/%y - %*d/index.m3u
 delete_wavs 1
-add_m3u 1
+add_m3u 0
 rel_m3u 1
 add_to_db 0
 use_proxy 0
@@ -23,9 +23,9 @@ proxy_port 8000
 proxy_user 
 proxy_pswd 
 cdupdate 
-user_email pdelong@localhost.localdomain
+user_email Paul.DeLong@gmail.com
 ripnice 0
-mp3nice 0
+mp3nice 20
 mp3_filter_cmd 
 doid3 0
 doid3v2 0
@@ -38,8 +38,8 @@ eject_delay 0
 delayed_encoding 0
 delay_before_rip 0
 stop_between_tracks 0
-beep_after_rip 1
-faulty_eject 0
+beep_after_rip 0
+faulty_eject 1
 poll_drive 1
 poll_interval 1
 use_proxy_env 0
@@ -57,24 +57,24 @@ play_first 1
 play_on_insert 0
 automatic_cddb 1
 automatic_reshuffle 1
-no_lower_case 0
-no_underscore 0
-allow_high_bits 0
+no_lower_case 1
+no_underscore 1
+allow_high_bits 1
 allow_these_chars 
-num_cpu 1
+num_cpu 3
 kbits_per_sec 128
-selected_encoder 0
+selected_encoder 7
 selected_ripper 0
 play_mode 0
 playloop 1
-win_width 400
-win_height 450
-win_height_edit 600
+win_width 1920
+win_height 563
+win_height_edit 1022
 win_width_min 200
 win_height_min 80
 vol_vis 0
-track_edit_vis 0
-track_prog_vis 0
+track_edit_vis 1
+track_prog_vis 1
 volume 255
 execute_after_encode_cmd 
 disable_paranoia 0
