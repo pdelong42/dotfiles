@@ -1,0 +1,26 @@
+repository package
+========== =======
+fedora gcc
+fedora geeqie
+fedora grip
+fedora libbluray
+fedora libbluray-bdj
+fedora screen
+fedora thermostat
+fedora tmux
+fedora xclip
+updates flac
+updates java-1.8.0-openjdk
+updates youtube-dl
+rpmfusion-free lame
+rpmfusion-free libaacs
+rpmfusion-free libaacs-utils
+rpmfusion-free libbdplus
+rpmfusion-free vlc
+rpmfusion-free-updates VirtualBox
+rpmfusion-nonfree steam
+
+ToDo:
+
+Chromium
+Google Earth
