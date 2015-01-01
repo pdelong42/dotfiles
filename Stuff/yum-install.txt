@@ -25,3 +25,4 @@ ToDo:
 
 Chromium
 Google Earth
+Google Talk/Chat/Voice browser addons
