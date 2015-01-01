@@ -1,5 +1,6 @@
 repository package
 ========== =======
+fedora clisp
 fedora gcc
 fedora geeqie
 fedora grip
