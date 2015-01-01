@@ -20,6 +20,11 @@ rpmfusion-free vlc
 rpmfusion-free-updates VirtualBox
 rpmfusion-nonfree steam
 
+misc:
+
+java-1.8.0-openjdk-headless-1.8.0.25-5.b18.fc21.x86_64
+java-1.8.0-openjdk-1.8.0.25-5.b18.fc21.x86_64
+
 ToDo:
 
 Chromium
