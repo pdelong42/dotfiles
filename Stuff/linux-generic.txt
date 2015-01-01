@@ -1,0 +1,9 @@
+List of things to install or get working on any Linux install, independent of package manager:
+
+ATI video drivers
+BluRay playing
+Chromium
+Google Earth
+Google Talk/Chat/Voice browser addons
+LaTeX environment
+Steam (and Portal 1 & 2)
