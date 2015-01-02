@@ -14,6 +14,7 @@ fedora tmux
 fedora xclip
 updates flac
 updates java-1.8.0-openjdk
+updates kernel-devel
 updates youtube-dl
 rpmfusion-free lame
 rpmfusion-free libaacs

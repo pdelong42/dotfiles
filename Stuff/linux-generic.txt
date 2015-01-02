@@ -4,6 +4,6 @@ ATI video drivers
 BluRay playing
 Chromium
 Google Earth
-Google Talk/Chat/Voice browser addons
+X Google Talk/Chat/Voice browser addons
 LaTeX environment
 Steam (and Portal 1 & 2)
