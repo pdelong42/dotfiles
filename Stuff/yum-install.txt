@@ -6,7 +6,9 @@ fedora geeqie
 fedora grip
 fedora libbluray
 fedora libbluray-bdj
+fedora ngrep
 fedora screen
+fedora strace
 fedora thermostat
 fedora tmux
 fedora xclip
