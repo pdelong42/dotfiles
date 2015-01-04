@@ -6,6 +6,7 @@ fedora geeqie
 fedora grip
 fedora libbluray
 fedora libbluray-bdj
+fedora mosh
 fedora ngrep
 fedora screen
 fedora strace
