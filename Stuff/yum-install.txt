@@ -1,6 +1,8 @@
 repository package
 ========== =======
 fedora clisp
+fedora emacs-magit
+fedora emacs-magit-el
 fedora gcc
 fedora geeqie
 fedora grip
@@ -13,6 +15,10 @@ fedora strace
 fedora thermostat
 fedora tmux
 fedora xclip
+fedora xemacs
+updates emacs
+updates emacs-git
+updates emacs-git-el
 updates flac
 updates java-1.8.0-openjdk
 updates kernel-devel
