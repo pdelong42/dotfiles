@@ -1,0 +1,1 @@
+ - get software install checklist from google doc at work
