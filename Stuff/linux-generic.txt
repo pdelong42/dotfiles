@@ -6,4 +6,6 @@ Chromium
 Google Earth
 X Google Talk/Chat/Voice browser addons
 LaTeX environment
-Steam (and Portal 1 & 2)
+X Steam
+Portal 1 & 2
+X Vagrant
