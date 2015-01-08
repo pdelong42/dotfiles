@@ -1,6 +1,8 @@
 repository package
 ========== =======
 fedora clisp
+fedora coq
+fedora coq-doc
 fedora emacs-magit
 fedora emacs-magit-el
 fedora gcc
