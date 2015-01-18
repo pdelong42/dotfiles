@@ -15,6 +15,7 @@ fedora mosh
 fedora ngrep
 fedora screen
 fedora strace
+fedora texlive
 fedora thermostat
 fedora tmux
 fedora xclip
