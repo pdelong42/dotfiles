@@ -10,6 +10,7 @@ fedora geeqie
 fedora grip
 fedora libbluray
 fedora libbluray-bdj
+fedora mod_ssl
 fedora mosh
 fedora ngrep
 fedora screen
