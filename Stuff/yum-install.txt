@@ -13,8 +13,10 @@ fedora libbluray-bdj
 fedora mod_ssl
 fedora mosh
 fedora ngrep
+fedora npm
 fedora screen
 fedora strace
+fedora sysstat
 fedora texlive
 fedora thermostat
 fedora tmux
@@ -32,6 +34,7 @@ rpmfusion-free libaacs
 rpmfusion-free libaacs-utils
 rpmfusion-free libbdplus
 rpmfusion-free vlc
+rpmfusion-free-updates ffmpeg
 rpmfusion-free-updates VirtualBox
 rpmfusion-nonfree steam
 
