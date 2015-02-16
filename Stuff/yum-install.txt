@@ -14,6 +14,7 @@ fedora mod_ssl
 fedora mosh
 fedora ngrep
 fedora npm
+fedora python-BeautifulSoup
 fedora screen
 fedora strace
 fedora sysstat
@@ -28,6 +29,7 @@ updates emacs-git-el
 updates flac
 updates java-1.8.0-openjdk
 updates kernel-devel
+updates libxcb-devel
 updates youtube-dl
 rpmfusion-free lame
 rpmfusion-free libaacs
