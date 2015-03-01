@@ -1,6 +1,8 @@
 repository package
 ========== =======
 fedora clisp
+fedora collectd
+fedora collectd-rrdtool
 fedora coq
 fedora coq-doc
 fedora emacs-magit
