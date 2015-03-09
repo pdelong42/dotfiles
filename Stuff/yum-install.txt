@@ -42,6 +42,7 @@ rpmfusion-free vlc
 rpmfusion-free-updates ffmpeg
 rpmfusion-free-updates VirtualBox
 rpmfusion-nonfree steam
+rpmfusion-nonfree-updates dropbox
 
 ToDo:
 
