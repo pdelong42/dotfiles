@@ -1,6 +1,7 @@
 repository package
 ========== =======
 fedora clisp
+fedora clojure
 fedora collectd
 fedora collectd-rrdtool
 fedora coq
@@ -9,6 +10,7 @@ fedora emacs-magit
 fedora emacs-magit-el
 fedora gcc
 fedora geeqie
+fedora golang
 fedora grip
 fedora libbluray
 fedora libbluray-bdj
@@ -26,6 +28,7 @@ fedora thermostat
 fedora tmux
 fedora xclip
 fedora xemacs
+updates docker-io
 updates emacs
 updates emacs-git
 updates emacs-git-el
