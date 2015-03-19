@@ -36,6 +36,8 @@ updates flac
 updates java-1.8.0-openjdk
 updates kernel-devel
 updates libxcb-devel
+updates mariadb
+updates mariadb-server
 updates youtube-dl
 rpmfusion-free lame
 rpmfusion-free libaacs
