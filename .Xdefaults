@@ -1,0 +1,4 @@
+xterm*background:black
+xterm*foreground:green
+xterm*fullscreen:on
+xterm*renderFont:default
