@@ -54,3 +54,21 @@ ToDo:
 Chromium
 Google Earth
 Google Talk/Chat/Voice browser addons
+
+Stuff I had in an install log at work, but haven't yet integrated with this log in my dotfiles repo:
+
+cloud-utils-growpart (?)
+git
+imvirt (?)
+ltrace
+mock
+nc
+nmap
+systemtap
+xorg-x11-xauth
+xterm
+yum-plugin-protectbase
+yum-plugin-remove-with-leaves
+yum-plugin-show-leaves
+yum-updateonboot
+
