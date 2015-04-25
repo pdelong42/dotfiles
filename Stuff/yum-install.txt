@@ -12,6 +12,7 @@ fedora gcc
 fedora geeqie
 fedora golang
 fedora grip
+fedora irssi
 fedora libbluray
 fedora libbluray-bdj
 fedora lyx
@@ -38,6 +39,9 @@ updates kernel-devel
 updates libxcb-devel
 updates mariadb
 updates mariadb-server
+updates python-pip
+updates thunderbird
+updates thunderbird-enigmail
 updates youtube-dl
 rpmfusion-free lame
 rpmfusion-free libaacs
@@ -71,4 +75,3 @@ yum-plugin-protectbase
 yum-plugin-remove-with-leaves
 yum-plugin-show-leaves
 yum-updateonboot
-
