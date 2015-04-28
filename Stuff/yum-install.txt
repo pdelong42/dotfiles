@@ -39,6 +39,7 @@ updates kernel-devel
 updates libxcb-devel
 updates mariadb
 updates mariadb-server
+updates ntp
 updates python-pip
 updates thunderbird
 updates thunderbird-enigmail
